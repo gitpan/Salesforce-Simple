@@ -1,0 +1,6 @@
+Revision history for Perl extension Salesforce::Simple.
+
+0.04  Fri Jan  6 13:58:45 2006
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Salesforce::Simple
+

@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Salesforce-Simple.t
+lib/Salesforce/Simple.pm
